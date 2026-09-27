@@ -26,7 +26,7 @@ public class butterfly {
             for(int z=x ; z>=1 ; z--){
                 System.out.print("*");
             }
-            System.out.println()
+            System.out.println();
         }
     }
 }
