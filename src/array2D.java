@@ -18,7 +18,7 @@ public class array2D {
             for(int j=0 ; j<columns ; j++){
                 System.out.print(findingcoordinates[i][j] + " ");
             }
-            System.out.println()
+            System.out.println();
         }
     }
 }
